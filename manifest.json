@@ -1,0 +1,13 @@
+{
+    "name": "Astound",
+    "description": "We make you Astound! by giving you random backgrounds",
+    "short_name": "Astound",
+    "author": "Raashid A",
+    "version":"11.2",
+    "manifest_version":2,
+    "permissions" : ["management"],
+    "chrome_url_overrides" : {
+        "newtab": "newtab.html"
+    }
+ }
+
